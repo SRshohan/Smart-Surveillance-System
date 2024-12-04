@@ -1,7 +1,7 @@
 ![Dataset](https://www.kaggle.com/datasets/webadvisor/real-time-anomaly-detection-in-cctv-surveillance/)
 
 
-```mmd
+```mermaid
 flowchart TD
     %% Define Nodes %%
     A["Video Data Collection<br>(Multiple Cameras)"] --> B["Edge Device Processing(Raspberry Pi)"]
