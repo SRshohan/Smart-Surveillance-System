@@ -1,0 +1,6 @@
+opencv-python
+matplotlib
+Keras-Preprocessing
+scikit-image
+tensorflow
+pandas
