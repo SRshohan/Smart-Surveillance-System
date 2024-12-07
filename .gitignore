@@ -1,3 +1,5 @@
 venv/
 ucf101/
 SCVD/
+model0.pth
+VideoResNet1.pth
